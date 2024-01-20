@@ -1,4 +1,4 @@
-# cp_flutter_app_v2
+# Camera-App-for-Detecting-Cerebral-Palsy
 
 A new Flutter project.
 
